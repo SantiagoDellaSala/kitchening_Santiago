@@ -14,5 +14,13 @@
       "email": "user@gmail.com",
       "password": "$2a$10$RYlTHCTSNL.TcXAsxEDsZ.kFveiQSIgnl/rXZY.ovHhyi0jmq0FfW",
       "role": "user"
+   },
+   {
+      "id": "5679a241-64a2-4373-a7bb-9f2dd3b8281b",
+      "name": "Pepe",
+      "surname": "Grillo",
+      "email": "pepegrillo@gmail.com",
+      "password": "$2a$10$WvJsGff2gmEVQuhU/V/riuhDR2NtedAnBOHM512sQ0GLR.66mYeV.",
+      "role": "user"
    }
 ]
